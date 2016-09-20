@@ -1,4 +1,4 @@
-package creational_factory.simple;
+package demo.creational.factory.simple;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

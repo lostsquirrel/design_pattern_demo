@@ -1,4 +1,4 @@
-package creational_factory.simple;
+package demo.creational.factory.simple;
 
 public class ProductA extends Product {
 

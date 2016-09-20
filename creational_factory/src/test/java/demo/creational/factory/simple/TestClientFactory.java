@@ -1,6 +1,7 @@
-package creational_factory.simple;
+package demo.creational.factory.simple;
 
-import creational_factory.simple.factory.ProductFactory;
+import demo.creational.factory.simple.Product;
+import demo.creational.factory.simple.factory.ProductFactory;
 
 public class TestClientFactory {
 
