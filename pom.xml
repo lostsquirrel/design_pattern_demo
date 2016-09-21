@@ -42,5 +42,6 @@
 	<modules>
 		<module>creational_factory</module>
 		<module>creational_abstract_factory</module>
+		<module>creational_builder</module>
 	</modules>
 </project>
