@@ -1,4 +1,4 @@
-package creational_abstract_factory;
+package demo.creational.abstract_factory;
 
 import org.junit.Test;
 import org.slf4j.Logger;
